@@ -16,7 +16,7 @@ The dataset selected represents HIV/AIDS diagnoses by 'Neighborhood', 'Sex', and
 
 ## Question 1:
 Question: What is the total number of HIV, AIDS, and Concurrent diagnoses in the state of NY sorted by year? For any given spikes, what was the distribution amongst boroughs?
-![Alt Text]
+![Alt Text](https://github.com/Evan2114/MIST-4610-Group-Project-2/blob/main/1a%20Group%20Project%202.png)
 
 Still need the second Tableau visualization for Question 1
 
