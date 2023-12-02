@@ -16,23 +16,27 @@ The dataset selected represents HIV/AIDS diagnoses by 'Neighborhood', 'Sex', and
 
 ## Question 1:
 Question: What is the total number of HIV, AIDS, and Concurrent diagnoses in the state of NY sorted by year? For any given spikes, what was the distribution amongst boroughs?
+
+Importance:
+
 ![Alt Text](https://github.com/Evan2114/MIST-4610-Group-Project-2/blob/main/1a%20Group%20Project%202.png)
 
 Still need the second Tableau visualization for Question 1
-
-Importance:
 
 ## Question 2:
 Question: What is the distribution of the number of concurrent diagnoses amongst the various neighborhoods of NYC? What is the distribution amongst race and sex for the neighborhood with the most cases?
 
 Importance:
-![Alt Text]
 
-![Alt Text]
+![Alt Text](https://github.com/Evan2114/MIST-4610-Group-Project-2/blob/main/2a%201%20Group%20Project%202.png)
 
-![Alt Text]
+![Alt Text](https://github.com/Evan2114/MIST-4610-Group-Project-2/blob/main/2a%202%20Group%20Project%202.png)
 
-![Alt Text]
+![Alt Text](https://github.com/Evan2114/MIST-4610-Group-Project-2/blob/main/2a%203%20Group%20Project%202.png)
+
+
+
+![Alt Text](https://github.com/Evan2114/MIST-4610-Group-Project-2/blob/main/2b%20Group%20Project%202.png)
 
 ## Manipulations Applied to Dataset
 The primary manipulation applied to our data is that we removed aggregate records to avoid double counting. We found that the columns 'Race', 'Sex', 'Borough', and 'Neighborhood' all had a aggregate records with totals that we filtered out before the Tableau visualizations. For example, in the 'Sex' column, the data collectors sometimes grouped together male and female results, which they reflected as 'All' in the dataset. Additionally, we filtered out years 2010 through 2015 to only the years of 2016-2021 because there were significant gaps in data between those earlier years. Additionally, we filtered out data with null entries in Borough, which also occurred in the data collected between 2010 through 2015, due to the fact that this data point was not recorded before 2016.
