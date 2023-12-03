@@ -21,6 +21,8 @@ Importance:
 
 ![Alt Text](https://github.com/Evan2114/MIST-4610-Group-Project-2/blob/main/1a%20Group%20Project%202.png)
 
+<img width="875" alt="Screen Shot 2023-12-03 at 12 58 27 PM" src="https://github.com/Evan2114/MIST-4610-Group-Project-2/assets/145038467/b7fa5930-839d-47d8-a1a1-19aaf8d9c2f0">
+
 Still need the second Tableau visualization for Question 1
 
 ## Question 2:
