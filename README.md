@@ -15,11 +15,10 @@
 The dataset selected represents HIV/AIDS diagnoses by 'Neighborhood', 'Sex', and 'Race/Ethnicity' for New York City, which we found through the website https://catalog.data.gov/dataset. The time frame of the data spans from years 2010 until 2021 with 'Year' representing another primary column in the dataset. However, the years 2010 through 2015 did contain frequent gaps in data and empty/null values. In addition to the columns aforementioned above, the other columns in the dataset include 'Borough', 'Total Number of HIV Diagnoses', 'HIV Diagnoses per 100,000 Population', 'Total number of Concurrent HIV/AIDS Diagnoses', 'Proportion of Concurrent HIV/AIDS Diagnoses Among All HIV Diagnoses', 'Total Number of AIDS Diagnoses', and 'AIDS Diagnoses per 100,000 Population'. The total numbers were reflected in integers, the diagnoses per 100,000 population were reflected as decimals, and the proportion statistics were reflected as percentages relative to all the diagnoses. We chose this dataset because we liked how the data contained a lot of variation among different key groups, statistics specific to HIV and AIDS only, and a combination of the two. After careful consideration, we knew we could provide useful insights into the specific data domains that are highly impacted by these diseases.
 
 ## Question 1:
-Question: What is the total number of HIV, AIDS, and Concurrent diagnoses in the state of NY sorted by year? For any given spikes, what was the distribution amongst boroughs?
+Question: What is the total number of HIV, AIDS, and Concurrent diagnoses in the state of NY over the time period provided by the data? For any given spikes, what was the distribution amongst boroughs?
 
 Importance:
-
-<img width="931" alt="Screen Shot 2023-12-04 at 10 34 15 AM" src="https://github.com/Evan2114/MIST-4610-Group-Project-2/assets/145038467/b90ed2d9-7596-4fcc-8d71-12a5a0f7d6ec">
+<img width="930" alt="Screen Shot 2023-12-04 at 10 40 44 AM" src="https://github.com/Evan2114/MIST-4610-Group-Project-2/assets/145038467/800dc6b5-3fe0-4236-b0ac-0df7ff9675ad">
 
 <img width="875" alt="Screen Shot 2023-12-03 at 12 58 27 PM" src="https://github.com/Evan2114/MIST-4610-Group-Project-2/assets/145038467/b7fa5930-839d-47d8-a1a1-19aaf8d9c2f0">
 
@@ -41,7 +40,7 @@ Importance:
 The primary manipulation applied to our data is that we removed aggregate records to avoid double counting. We found that the columns 'Race', 'Sex', 'Borough', and 'Neighborhood' all had a aggregate records with totals that we filtered out before the Tableau visualizations. For example, in the 'Sex' column, the data collectors sometimes grouped together male and female results, which they reflected as 'All' in the dataset. Additionally, we filtered out years 2010 through 2015 to only the years of 2016-2021 because there were significant gaps in data between those earlier years. Additionally, we filtered out data with null entries in Borough, which also occurred in the data collected between 2010 through 2015, due to the fact that this data point was not recorded before 2016.
 
 ## Analysis and Results
-Question 1:
+Question 1: From our visualization of the change over time of the total number of HIV, AIDS, and Concurrent diagnoses in the state of NY, there is a clear relationship between the total number of HIV, AIDS, and Concurrent diagnoses. While it is not guaranteed that HIV will progress into AIDS, there
 
 Question 2:
 
