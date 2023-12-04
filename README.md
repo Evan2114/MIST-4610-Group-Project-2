@@ -28,6 +28,8 @@ Importance:
 Question: What is the distribution of the number of concurrent diagnoses amongst the various neighborhoods of NYC? What is the distribution amongst race and sex for the neighborhood with the most cases?
 
 Importance:
+![Alt Text](![Q2]https://github.com/Evan2114/MIST-4610-Group-Project-2/assets/145038467/c239e923-b87d-4b07-af7d-0d8e098fcbf7)
+
 
 ![Alt Text](https://github.com/Evan2114/MIST-4610-Group-Project-2/blob/main/2a%201%20Group%20Project%202.png)
 
