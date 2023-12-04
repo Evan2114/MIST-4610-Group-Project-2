@@ -24,6 +24,7 @@ Importance:
 The first part of this question is interesting because it enables one to determine if there is any strong, positive correlation between individual HIV and AIDS diagnoses and concurrent diagnoses. From this visualization, the interpreter could form conclusions that HIV and AIDS is a collective epidemic, and both diseases must be approached with a similar aid approach and an equal focus on prevention of future cases. The second part of the question is important because it provides useful insights into which boroughs of New York City are experiencing the highest concurrent rates of HIV and AIDS. As a result of this information, New York City officials could gain a deeper understanding into where the specific HIV and AIDS pain points are located in the city, and be able to devote additional aid and resources to the borough(s) with the greatest need.
 
 First Visual:
+
 <img width="930" alt="Screen Shot 2023-12-04 at 10 40 44 AM" src="https://github.com/Evan2114/MIST-4610-Group-Project-2/assets/145038467/800dc6b5-3fe0-4236-b0ac-0df7ff9675ad">
 
 Analysis and Results:
@@ -31,9 +32,11 @@ Analysis and Results:
 From our visualization of the change over time of the total number of HIV, AIDS, and Concurrent diagnoses in the state of NY, there is a clear relationship between the total number of HIV, AIDS, and Concurrent diagnoses. While it is not guaranteed that HIV will progress into AIDS, there seems to be a positive relationship between the total number of HIV and AIDS cases, meaning that when one increases, so does the other. Therefore, we decided to use the concurrent number of cases to do a deeper dive into the distribution of cases amongst NYC boroughs. 
 
 Second Visual:
+
 <img width="875" alt="Screen Shot 2023-12-03 at 12 58 27 PM" src="https://github.com/Evan2114/MIST-4610-Group-Project-2/assets/145038467/b7fa5930-839d-47d8-a1a1-19aaf8d9c2f0">
 
 Analysis and Results:
+
 We focused on the 2018 to 2021 time frame as there was a clear spike resembling the data from the first chart in year 2020 for all three figures. For the instance of this visualization, we looked into the distribution amongst concurrent cases. The graph shows that Brooklyn had the largest spike in 2020 among the boroughs during this time frame. This data also provides insight into how the COVID-19 pandemic led to a sudden surge in HIV and AIDS diagnoses, and the year appears to be a relative outlier for the curve in the future. Additionally, we found it unique how the concurrent results immediately dropped the following year (2021) after COVID-19's peak in 2020 and returned to levels that closely resembled pre-pandemic results. 
 
 ## Question 2:
