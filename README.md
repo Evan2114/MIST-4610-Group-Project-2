@@ -15,7 +15,9 @@
 The dataset selected represents HIV/AIDS diagnoses by 'Neighborhood', 'Sex', and 'Race/Ethnicity' for New York City, which we found through the website https://catalog.data.gov/dataset. The time frame of the data spans from years 2010 until 2021 with 'Year' representing another primary column in the dataset. However, the years 2010 through 2015 did contain frequent gaps in data and empty/null values. In addition to the columns aforementioned above, the other columns in the dataset include 'Borough', 'Total Number of HIV Diagnoses', 'HIV Diagnoses per 100,000 Population', 'Total number of Concurrent HIV/AIDS Diagnoses', 'Proportion of Concurrent HIV/AIDS Diagnoses Among All HIV Diagnoses', 'Total Number of AIDS Diagnoses', and 'AIDS Diagnoses per 100,000 Population'. The total numbers were reflected in integers, the diagnoses per 100,000 population were reflected as decimals, and the proportion statistics were reflected as percentages relative to all the diagnoses. We chose this dataset because we liked how the data contained a lot of variation among different key groups, statistics specific to HIV and AIDS only, and a combination of the two. After careful consideration, we knew we could provide useful insights into the specific data domains that are highly impacted by these diseases.
 
 ## Question 1:
-Question: What is the total number of HIV, AIDS, and Concurrent diagnoses in the state of NY over the period provided by the data? For any given spikes, what was the distribution amongst boroughs for concurrent diagnoses?
+Question: 
+
+What is the total number of HIV, AIDS, and Concurrent diagnoses in the state of NY over the period provided by the data? For any given spikes, what was the distribution amongst boroughs for concurrent diagnoses?
 
 Importance:
 
@@ -25,6 +27,7 @@ First Visual:
 <img width="930" alt="Screen Shot 2023-12-04 at 10 40 44 AM" src="https://github.com/Evan2114/MIST-4610-Group-Project-2/assets/145038467/800dc6b5-3fe0-4236-b0ac-0df7ff9675ad">
 
 Analysis and Results:
+
 From our visualization of the change over time of the total number of HIV, AIDS, and Concurrent diagnoses in the state of NY, there is a clear relationship between the total number of HIV, AIDS, and Concurrent diagnoses. While it is not guaranteed that HIV will progress into AIDS, there seems to be a positive relationship between the total number of HIV and AIDS cases, meaning that when one increases, so does the other. Therefore, we decided to use the concurrent number of cases to do a deeper dive into the distribution of cases amongst NYC boroughs. 
 
 Second Visual:
