@@ -42,34 +42,36 @@ Analysis and Results:
 We focused on the 2018 to 2021 time frame as there was a clear spike resembling the data from the first chart in year 2020 for all three figures. For the instance of this visualization, we looked into the distribution amongst concurrent cases. The graph shows that Brooklyn had the largest spike in 2020 among the boroughs during this time frame. This data also provides insight into how the COVID-19 pandemic led to a sudden surge in HIV and AIDS diagnoses, and the year appears to be a relative outlier for the curve in the future. Additionally, we found it unique how the concurrent results immediately dropped the following year (2021) after COVID-19's peak in 2020 and returned to levels that closely resembled pre-pandemic results. 
 
 ## Question 2:
-Question: What is the distribution of the number of concurrent diagnoses amongst the various neighborhoods of NYC? What is the distribution amongst race and sex for the neighborhood with the most cases?
+Question: 
+
+What is the distribution of the number of concurrent HIV/AIDS diagnoses amongst the various neighborhoods of NYC? What is the distribution amongst race and sex for the neighborhood with the most cases?
 
 Importance:
 
+The first part of the question is important because it builds upon our analysis in the second part of question 1 by figuring out the specific neighborhoods that have the highest number of concurrent diagnoses. As a result, New York City officials could utilize this visual to identify the neighborhoods with the highest numbers and devote additional aid and attention on prevention and reduction of diagnoses in these areas. On the alternative perspective, New York City officials could also use this visual to identify the neighborhoods with the lowest number of diagnoses and do a deeper analysis into the factors, such as sexual reproductive education or increased contraception availability, that contribute to a lower prevalance of cases. Then, city officials could use this data to implement new strategies and funding into the higher risk neighborhoods to prevent these higher diagnostic rates in the future. The second part of this question is also significant because it analyzes two key demographic factors, race and sex, of the NYC neighborhood with the highest number of concurrent cases. From this visual, the interpreter could gain insight into which groups are being impacted the most by this epidemic in this specific region, which may also lead into other underlying factors, such as economic disparity or a poor education system, that are causing these groups to be highly affected.
+
 First Visual:
+
 <img width="929" alt="Screen Shot 2023-12-04 at 10 25 44 AM" src="https://github.com/Evan2114/MIST-4610-Group-Project-2/assets/145038467/d0495847-4da9-4a33-80b3-265f270e193c">
 <img width="985" alt="Screen Shot 2023-12-04 at 10 26 46 AM" src="https://github.com/Evan2114/MIST-4610-Group-Project-2/assets/145038467/087f8fbb-0bd2-41ab-87bb-a7e63ce010f6">
 <img width="984" alt="Screen Shot 2023-12-04 at 10 27 14 AM" src="https://github.com/Evan2114/MIST-4610-Group-Project-2/assets/145038467/67217fc7-03cc-4dff-b1c9-3198f49555c9">
 
 Analysis and Results:
 
+New York City has many neighborhoods, and as such, modeling the number of cases by location is a useful metric. By comparing these totals, we can identify areas that contain higher amounts of diagnoses. From our output, it seems that Bedford, East Flatbush, High Bridge, Fordham, and Crown Heights could be worthy of further study. We opted to drill down on a neighborhood with a high amount of diagnoses to find out more information about the specific demographic factors, race and sex, that may play a role in the higher rate. 
+
 Second Visual:
 <img width="898" alt="Screen Shot 2023-12-04 at 10 28 30 AM" src="https://github.com/Evan2114/MIST-4610-Group-Project-2/assets/145038467/a8476de1-6d2f-4fcc-acd8-5d1337372e5c">
 
 Analysis and Results:
 
-## Manipulations Applied to Dataset
-The primary manipulation applied to our data is that we removed aggregate records to avoid double counting. We found that the columns 'Race', 'Sex', 'Borough', and 'Neighborhood' all had aggregate records with totals that we filtered out before the Tableau visualizations. For example, in the 'Sex' column, the data collectors sometimes grouped together male and female results, which they reflected as 'All' in the dataset. Additionally, we filtered out years 2010 through 2015 to only the years 2016-2021 because there were significant gaps in data between those earlier years. Additionally, we filtered out data with null entries in Borough, which also occurred in the data collected between 2010 through 2015, due to the fact that this data point was not recorded before 2016.
-
-## Analysis and Results
-Question 2: New York City has many neighborhoods, and as such, modeling the number of cases by location is a useful metric. By comparing these totals, we can identify areas that contain higher amounts of diagnoses. From our output, it seems that Bedford, East Flatbush, High Bridge, Fordham, and Crown Heights could be worthy of further study. We opted to drill down on a neighborhood with a high amount of diagnoses to find out more information. 
-
-We looked at one Crown Heights, and created a heat map contrasting Race and Sex. What the heatmap showed was interesting. Males of every group recorded had higher amounts of diagnoses than Females of all groups, such that for the White, Asian/Pacific Islander, and Other identifying groups, the Female demographic did not show up on the visualization. In terms of Race, two groups have higher diagnosis numbers than the rest: Black and Hispanic/Latino. 
-
-These statistics are corroborated by a study conducted from 2014-2018 by the New York City Department of Health and Mental Hygiene. This study found that Black and Latino/Hispanic people accounted for 80% and 90% of new HIV diagnoses in men and women, respectively, in NYC in 2018 (Pg. 15). This study also identified Crown Heights as one of the 3 highest diagnoses count neighborhoods in 2018, which corroborates our choice of neighborhood to dril down (Pg. 34).
+For this visual, we looked into the neighborhood, Bedford Stuyvesant - Crown Heights, and created a heat map contrasting Race and Sex. The results of the heatmap were insightful and interesting. Males of every group recorded had higher amounts of diagnoses than Females of all groups, such that for the White, Asian/Pacific Islander, and Other identifying groups, the Female demographic did not show up on the visualization. In terms of Race, two groups have significantly higher diagnosis numbers than the rest: Black and Hispanic/Latino. These statistics are corroborated by a study conducted from 2014-2018 by the New York City Department of Health and Mental Hygiene. This study found that Black and Latino/Hispanic people accounted for 80% and 90% of new HIV diagnoses in men and women, respectively, in NYC in 2018 (Pg. 15). This study also identified Crown Heights as one of the 3 highest diagnoses count neighborhoods in 2018, which corroborates our choice of neighborhood to dril down (Pg. 34).
 
 HIV in New York City 2014 - 2018:
 https://www.nyc.gov/assets/doh/downloads/pdf/dires/hiv-aids-overall.pdf
+
+## Manipulations Applied to Dataset
+The primary manipulation applied to our data is that we removed aggregate records to avoid double counting. We found that the columns 'Race', 'Sex', 'Borough', and 'Neighborhood' all had aggregate records with totals that we filtered out before the Tableau visualizations. For example, in the 'Sex' column, the data collectors sometimes grouped together male and female results, which they reflected as 'All' in the dataset. Additionally, we filtered out years 2010 through 2015 to only the years 2016-2021 because there were significant gaps in data between those earlier years. Additionally, we filtered out data with null entries in Borough, which also occurred in the data collected between 2010 through 2015, due to the fact that this data point was not recorded before 2016.
 
 ## Tableau Packaged Workbook
 The packaged workbook containing the visualizations displayed above is also attached to this repository.
