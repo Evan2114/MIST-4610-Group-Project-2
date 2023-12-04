@@ -18,6 +18,7 @@ The dataset selected represents HIV/AIDS diagnoses by 'Neighborhood', 'Sex', and
 Question: What is the total number of HIV, AIDS, and Concurrent diagnoses in the state of NY over the period provided by the data? For any given spikes, what was the distribution amongst boroughs for concurrent diagnoses?
 
 Importance:
+
 The first part of this question is interesting because it enables one to determine if there is any strong, positive correlation between individual HIV and AIDS diagnoses and concurrent diagnoses. From this visualization, the interpreter could form conclusions that HIV and AIDS is a collective epidemic, and both diseases must be approached with a similar aid approach and an equal focus on prevention of future cases. The second part of the question is important because it provides useful insights into which boroughs of New York City are experiencing the highest concurrent rates of HIV and AIDS. As a result of this information, New York City officials could gain a deeper understanding into where the specific HIV and AIDS pain points are located in the city, and be able to devote additional aid and resources to the borough(s) with the greatest need.
 
 First Visual:
