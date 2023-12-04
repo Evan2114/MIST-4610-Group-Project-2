@@ -40,7 +40,7 @@ Importance:
 The primary manipulation applied to our data is that we removed aggregate records to avoid double counting. We found that the columns 'Race', 'Sex', 'Borough', and 'Neighborhood' all had a aggregate records with totals that we filtered out before the Tableau visualizations. For example, in the 'Sex' column, the data collectors sometimes grouped together male and female results, which they reflected as 'All' in the dataset. Additionally, we filtered out years 2010 through 2015 to only the years of 2016-2021 because there were significant gaps in data between those earlier years. Additionally, we filtered out data with null entries in Borough, which also occurred in the data collected between 2010 through 2015, due to the fact that this data point was not recorded before 2016.
 
 ## Analysis and Results
-Question 1: From our visualization of the change over time of the total number of HIV, AIDS, and Concurrent diagnoses in the state of NY, there is a clear relationship between the total number of HIV, AIDS, and Concurrent diagnoses. While it is not guaranteed that HIV will progress into AIDS, there
+Question 1: From our visualization of the change over time of the total number of HIV, AIDS, and Concurrent diagnoses in the state of NY, there is a clear relationship between the total number of HIV, AIDS, and Concurrent diagnoses. While it is not guaranteed that HIV will progress into AIDS, there seems to be a positie rela
 
 Question 2:
 
