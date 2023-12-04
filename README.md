@@ -17,7 +17,6 @@ The dataset selected represents HIV/AIDS diagnoses by 'Neighborhood', 'Sex', and
 ## Question 1:
 Question: What is the total number of HIV, AIDS, and Concurrent diagnoses in the state of NY over the period provided by the data? For any given spikes, what was the distribution amongst boroughs?
 
-Importance:
 <img width="930" alt="Screen Shot 2023-12-04 at 10 40 44 AM" src="https://github.com/Evan2114/MIST-4610-Group-Project-2/assets/145038467/800dc6b5-3fe0-4236-b0ac-0df7ff9675ad">
 
 <img width="875" alt="Screen Shot 2023-12-03 at 12 58 27 PM" src="https://github.com/Evan2114/MIST-4610-Group-Project-2/assets/145038467/b7fa5930-839d-47d8-a1a1-19aaf8d9c2f0">
@@ -26,7 +25,6 @@ Importance:
 ## Question 2:
 Question: What is the distribution of the number of concurrent diagnoses amongst the various neighborhoods of NYC? What is the distribution amongst race and sex for the neighborhood with the most cases?
 
-Importance:
 <img width="929" alt="Screen Shot 2023-12-04 at 10 25 44 AM" src="https://github.com/Evan2114/MIST-4610-Group-Project-2/assets/145038467/d0495847-4da9-4a33-80b3-265f270e193c">
 
 <img width="985" alt="Screen Shot 2023-12-04 at 10 26 46 AM" src="https://github.com/Evan2114/MIST-4610-Group-Project-2/assets/145038467/087f8fbb-0bd2-41ab-87bb-a7e63ce010f6">
