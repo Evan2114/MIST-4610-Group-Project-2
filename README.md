@@ -62,6 +62,7 @@ New York City has many neighborhoods, and as such, modeling the number of cases 
 
 
 Second Visual:
+
 <img width="898" alt="Screen Shot 2023-12-04 at 10 28 30 AM" src="https://github.com/Evan2114/MIST-4610-Group-Project-2/assets/145038467/a8476de1-6d2f-4fcc-acd8-5d1337372e5c">
 
 Analysis and Results:
