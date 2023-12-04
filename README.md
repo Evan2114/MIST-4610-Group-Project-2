@@ -19,7 +19,7 @@ Question: What is the total number of HIV, AIDS, and Concurrent diagnoses in the
 
 Importance:
 
-![Alt Text](https://github.com/Evan2114/MIST-4610-Group-Project-2/blob/main/1a%20Group%20Project%202.png)
+<img width="931" alt="Screen Shot 2023-12-04 at 10 34 15 AM" src="https://github.com/Evan2114/MIST-4610-Group-Project-2/assets/145038467/b90ed2d9-7596-4fcc-8d71-12a5a0f7d6ec">
 
 <img width="875" alt="Screen Shot 2023-12-03 at 12 58 27 PM" src="https://github.com/Evan2114/MIST-4610-Group-Project-2/assets/145038467/b7fa5930-839d-47d8-a1a1-19aaf8d9c2f0">
 
