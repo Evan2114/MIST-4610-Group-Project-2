@@ -42,7 +42,14 @@ The primary manipulation applied to our data is that we removed aggregate record
 ## Analysis and Results
 Question 1: From our visualization of the change over time of the total number of HIV, AIDS, and Concurrent diagnoses in the state of NY, there is a clear relationship between the total number of HIV, AIDS, and Concurrent diagnoses. While it is not guaranteed that HIV will progress into AIDS, there seems to be a positie rela
 
-Question 2:
+Question 2: New York City has many neighborhoods, and as such, modeling the number of cases by location is a useful metric. By comparing these totals, we can identify areas that contain higher amounts of diagnoses. From our output, it seems that Bedford, East Flatbush, High Bridge, and Fordham, and Crown Heights could be worthy of further study. We opted to drill down on a neighborhood with a high amount of diagnoses to find out more information. 
+
+We looked at one Crown Heights, and created a heat map contrasting Race and Sex. What the heatmap showed was interesting. Males of every group recorded had higher amounts of diagnoses than Females of all groups, such that for the White, Asian/Pacific Islander, and Other identifying groups, the Female demographic did not show up on the vizualization. In terms of Race, two groups have higher diagnoses numbers than the rest: Black and Hispanic/Latino. 
+
+These statistics are corroberated by a study conducted from 2014-2018 by the New York City Department of health and Mental Hygeine. This study found that Black and Latino/Hispanic people accounted for 80% and 90% of new HIV diagnoses in men and women, respectively, in NYC in 2018 (Pg. 15). This study also identified Crown heights as one of the 3 highest diagnoses count neighborhoods in 2018, which corroborates our choice of neighborhood to dril down (Pg. 34).
+
+HIV in New York City 2014 - 2018:
+https://www.nyc.gov/assets/doh/downloads/pdf/dires/hiv-aids-overall.pdf
 
 
 ## Tableau Packaged Workbook
