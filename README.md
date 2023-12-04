@@ -28,14 +28,11 @@ Importance:
 Question: What is the distribution of the number of concurrent diagnoses amongst the various neighborhoods of NYC? What is the distribution amongst race and sex for the neighborhood with the most cases?
 
 Importance:
-![Alt Text](![Q2]https://github.com/Evan2114/MIST-4610-Group-Project-2/assets/145038467/c239e923-b87d-4b07-af7d-0d8e098fcbf7)
+<img width="929" alt="Screen Shot 2023-12-04 at 10 25 44 AM" src="https://github.com/Evan2114/MIST-4610-Group-Project-2/assets/145038467/d0495847-4da9-4a33-80b3-265f270e193c">
 
+<img width="985" alt="Screen Shot 2023-12-04 at 10 26 46 AM" src="https://github.com/Evan2114/MIST-4610-Group-Project-2/assets/145038467/087f8fbb-0bd2-41ab-87bb-a7e63ce010f6">
 
-![Alt Text](https://github.com/Evan2114/MIST-4610-Group-Project-2/blob/main/2a%201%20Group%20Project%202.png)
-
-![Alt Text](https://github.com/Evan2114/MIST-4610-Group-Project-2/blob/main/2a%202%20Group%20Project%202.png)
-
-![Alt Text](https://github.com/Evan2114/MIST-4610-Group-Project-2/blob/main/2a%203%20Group%20Project%202.png)
+<img width="984" alt="Screen Shot 2023-12-04 at 10 27 14 AM" src="https://github.com/Evan2114/MIST-4610-Group-Project-2/assets/145038467/67217fc7-03cc-4dff-b1c9-3198f49555c9">
 
 ![Alt Text](https://github.com/Evan2114/MIST-4610-Group-Project-2/blob/main/2b%20Group%20Project%202.png)
 
