@@ -23,6 +23,7 @@ Importance:
 
 The first part of this question is interesting because it enables one to determine if there is any strong, positive correlation between individual HIV and AIDS diagnoses and concurrent diagnoses. From this visualization, the interpreter could form conclusions that HIV and AIDS is a collective epidemic, and both diseases must be approached with a similar aid approach and an equal focus on prevention of future cases. The second part of the question is important because it provides useful insights into which boroughs of New York City are experiencing the highest concurrent rates of HIV and AIDS. As a result of this information, New York City officials could gain a deeper understanding into where the specific HIV and AIDS pain points are located in the city, and be able to devote additional aid and resources to the borough(s) with the greatest need.
 
+
 First Visual:
 
 <img width="930" alt="Screen Shot 2023-12-04 at 10 40 44 AM" src="https://github.com/Evan2114/MIST-4610-Group-Project-2/assets/145038467/800dc6b5-3fe0-4236-b0ac-0df7ff9675ad">
