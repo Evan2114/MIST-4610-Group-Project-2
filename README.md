@@ -31,6 +31,7 @@ Analysis and Results:
 
 From our visualization of the change over time of the total number of HIV, AIDS, and Concurrent diagnoses in the state of NY, there is a clear relationship between the total number of HIV, AIDS, and Concurrent diagnoses. While it is not guaranteed that HIV will progress into AIDS, there seems to be a positive relationship between the total number of HIV and AIDS cases, meaning that when one increases, so does the other. Therefore, we decided to use the concurrent number of cases to do a deeper dive into the distribution of cases amongst NYC boroughs. 
 
+
 Second Visual:
 
 <img width="875" alt="Screen Shot 2023-12-03 at 12 58 27 PM" src="https://github.com/Evan2114/MIST-4610-Group-Project-2/assets/145038467/b7fa5930-839d-47d8-a1a1-19aaf8d9c2f0">
